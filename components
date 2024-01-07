@@ -1,0 +1,6 @@
+
+<!-- this is a fixed html components for the toggle switch -->
+<label >
+    <input class="toggle-checkbox" type="checkbox" checked>
+    <div class="toggle-switch"></div>
+</label>
